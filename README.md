@@ -1,7 +1,6 @@
 # 🌿 GreenNest - Organic E-Commerce Platform
 
-![GreenNest Demo](https://via.placeholder.com/800x400?text=GreenNest+Demo)  
-*(Replace with actual screenshot/gif)*
+![GreenNest Demo]](https://green-nest-kappa.vercel.app/login))  
 
 A React-based e-commerce platform for organic fruits and vegetables, featuring Firebase authentication and real-time cart management.
 
