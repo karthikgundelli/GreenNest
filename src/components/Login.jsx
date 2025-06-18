@@ -68,8 +68,8 @@ const Login = () => {
             value={password}
             onChange={handleChange}
           /> <br /><br />
-          <button onClick={signin}>Sign In</button> &nbsp;
-          <button onClick={signup}>Sign Up</button> <br /><br />
+          <button onClick={signin}>login</button> &nbsp;
+          <button onClick={signup}>create account</button> <br /><br />
           {error && <p style={{ color: "red" }}>{error}</p>}
           {success && <p style={{ color: "green" }}>{success}</p>}
         </form>
