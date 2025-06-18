@@ -94,5 +94,5 @@ Distributed under the MIT License. See LICENSE for more information.
 📬 Contact
 Your Name - @linkedin:(https://www.linkedin.com/in/gundelli-karthik-598b71243/)- karthikgundelly4@gmail.com
 
-Project Link: https://github.com/yourusername/greennest
+Project Link:(https://github.com/karthikgundelli/GreenNest)
 
